@@ -1,0 +1,1 @@
+<gitextension> xhtml </gitextension>
